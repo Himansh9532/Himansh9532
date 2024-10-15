@@ -3,7 +3,7 @@
 - 👀 I’m passionate about data science, machine learning, and AI technologies.
 - 🌱 I’m currently learning advanced machine learning techniques and cloud platforms like Azure.
 - 💞️ I’m looking to collaborate on exciting data science projects and contribute to open-source communities.
-- 📫 How to reach me: Email - 2022blaiml03@axiscoleges.in
+- 📫 How to reach me: Email - himanshugupta95326@gmail.com
 
 ## 🛠️ Technologies and Tools I Work With:
 
