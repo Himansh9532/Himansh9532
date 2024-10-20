@@ -1,7 +1,11 @@
 # Hi, I'm Himanshu Gupta! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F709&center=true&vCenter=true&width=435&lines=Data+Scientist+%7C+ML+Enthusiast+%7C+AI+Explorer" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F709&center=true&vCenter=true&width=500&lines=Hi,+I+am+Himanshu+Gupta+👋;Data+Scientist+%7C+ML+Enthusiast+%7C+AI+Explorer" alt="Typing Animation">
+</p>
+
+<p align="center">
+  <img src="https://your-3d-text-link.com" alt="3D Name Animation">
 </p>
 
 ### 👀 Passionate about Data Science, Machine Learning, and AI Technologies
@@ -11,7 +15,7 @@
 
 ## 🛠️ Technologies and Tools I Work With:
 | Programming Languages | Data Science & ML | Cloud Platforms | Web Development |
-| --------------------- | ---------------- | --------------- | --------------- |
+| --------------------- | ----------------- | --------------- | --------------- |
 | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) | ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat) | ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat) | ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat) |
 | ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat) | ![Numpy](https://img.shields.io/badge/-Numpy-013243?logo=numpy&logoColor=white&style=flat) |   | ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat) |
 | ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat) | ![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white&style=flat) |   |   |
@@ -27,4 +31,3 @@
 - LinkedIn: [Himanshu Gupta](https://www.linkedin.com/in/himanshugupta9532/)
 - GitHub: [Himansh9532](https://github.com/Himansh9532)
 - Email: [himanshugupta95326@gmail.com](mailto:himanshugupta95326@gmail.com)
-
