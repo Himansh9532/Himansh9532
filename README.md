@@ -30,10 +30,10 @@ I specialize in leveraging the power of **Data Science**, **Machine Learning**, 
   
 | **Programming Languages** | **Data Science & ML** | **Cloud Platforms** | **Web Development** |
 | ------------------------ | ------------------ | ------------------ | ------------------- |
-| ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) | ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat) | ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat) | ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat) |
-| ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat) | ![Numpy](https://img.shields.io/badge/-Numpy-013243?logo=numpy&logoColor=white&style=flat) | ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white&style=flat) | ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat) |
-| ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat) | ![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white&style=flat) | ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat) | ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat) |
-| ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat) | ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat) | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) |
+| ![Python](https://img.icons8.com/nolan/64/python.png) | ![Pandas](https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-pandas-coding-flatart-icons-outline-flatarticons.png) | ![Azure](https://img.icons8.com/color/64/000000/azure-1.png) | ![Django](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/64/000000/external-django-an-open-source-web-application-framework-written-in-python-logo-shadow-tal-revivo.png) |
+| ![C++](https://img.icons8.com/ultraviolet/64/000000/c-plus-plus.png) | ![Numpy](https://img.icons8.com/color/64/000000/numpy.png) | ![AWS](https://img.icons8.com/color/64/000000/amazon-web-services.png) | ![Streamlit](https://img.icons8.com/external-tal-revivo-color-tal-revivo/64/000000/external-streamlit-an-open-source-app-framework-in-python-logo-color-tal-revivo.png) |
+| ![SQL](https://img.icons8.com/color/64/000000/sql.png) | ![Scikit-learn](https://img.icons8.com/external-tal-revivo-color-tal-revivo/64/000000/external-scikit-learn-is-a-free-software-machine-learning-library-for-python-programming-logo-color-tal-revivo.png) | ![Google Cloud](https://img.icons8.com/color/64/000000/google-cloud.png) | ![Flask](https://img.icons8.com/nolan/64/flask.png) |
+| ![Git](https://img.icons8.com/nolan/64/git.png) | ![TensorFlow](https://img.icons8.com/color/64/000000/tensorflow.png) | ![Azure](https://img.icons8.com/color/64/000000/azure-1.png) | ![HTML5](https://img.icons8.com/color/64/000000/html-5.png) |
 
 </div>
 
@@ -45,6 +45,19 @@ I specialize in leveraging the power of **Data Science**, **Machine Learning**, 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Himansh9532&theme=radical" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Himansh9532&theme=radical&utcOffset=8" />
 </div>
+
+---
+
+## 🎥 **Machine Learning Projects**:
+
+- **Predicting Boston House Prices**  
+  ![Boston Housing GIF](https://media.giphy.com/media/3oKIPB4eQFA3ZXVFC0/giphy.gif)
+
+- **Image Classification with TensorFlow**  
+  ![TensorFlow Image Classification](https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif)
+
+- **Data Visualizations with Matplotlib**  
+  ![Data Visualization GIF](https://media.giphy.com/media/xT1R9XwkMNYX7Xepb2/giphy.gif)
 
 ---
 
