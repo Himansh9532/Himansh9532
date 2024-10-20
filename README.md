@@ -50,14 +50,26 @@ I specialize in leveraging the power of **Data Science**, **Machine Learning**, 
 
 ## 🎥 **Machine Learning Projects**:
 
-- **Predicting Boston House Prices**  
-  ![Boston Housing GIF](https://media.giphy.com/media/3oKIPB4eQFA3ZXVFC0/giphy.gif)
+### 🔹 Predicting Boston House Prices
+  - **Description**: This project uses the classic **Boston Housing Dataset** to predict house prices using machine learning models like **Linear Regression**, **Random Forest**, and **XGBoost**.  
+  - **Tech Stack**: Python, Pandas, Scikit-learn, XGBoost  
+  <p align="center">
+    <img src="https://media.giphy.com/media/WUq1cg9K7uzHa/giphy.gif" alt="Boston Housing GIF" width="500"/>
+  </p>
 
-- **Image Classification with TensorFlow**  
-  ![TensorFlow Image Classification](https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif)
+### 🔹 Image Classification with TensorFlow
+  - **Description**: Developed an image classifier using **TensorFlow** and **Keras**, achieving high accuracy on classifying images from **CIFAR-10** dataset.  
+  - **Tech Stack**: Python, TensorFlow, Keras, Numpy  
+  <p align="center">
+    <img src="https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif" alt="Image Classification TensorFlow" width="500"/>
+  </p>
 
-- **Data Visualizations with Matplotlib**  
-  ![Data Visualization GIF](https://media.giphy.com/media/xT1R9XwkMNYX7Xepb2/giphy.gif)
+### 🔹 Data Visualizations with Matplotlib
+  - **Description**: Created dynamic, interactive data visualizations using **Matplotlib** and **Seaborn** to showcase trends and patterns in real-world data.  
+  - **Tech Stack**: Python, Matplotlib, Seaborn  
+  <p align="center">
+    <img src="https://media.giphy.com/media/xT1R9XwkMNYX7Xepb2/giphy.gif" alt="Data Visualization GIF" width="500"/>
+  </p>
 
 ---
 
